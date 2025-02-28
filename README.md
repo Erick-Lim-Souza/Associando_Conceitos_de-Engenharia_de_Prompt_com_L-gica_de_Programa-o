@@ -57,7 +57,16 @@ Os desafios apresentados aqui têm como objetivo principal exercitar os conceito
 ## 📜 Licença
 MIT - Este projeto é de uso livre para estudo e aprendizado.
 
+## Autor:
+Erick Souza
+- [Meu GitHub](https://github.com/Erick-Lim-Souza)
+- [Meu Linkedin](https://www.linkedin.com/in/erick-souza-70404686/ "Meu LinKedin")
+- [Meu perfil DIO.me](https://www.dio.me/users/erickdelimasouza "Meu perfil DIO.me")
+- [Meu perfil Alura](https://cursos.alura.com.br/user/erickdelimasouza)
+- [Meu perfil Rocketseat](https://app.rocketseat.com.br/me/ericksouza)
 
+- E-mail: erick.devzone@gmail.com
 
-
+---
+**Desenvolvido com dedicação e foco no aprendizado de tecnologias web.**
 
