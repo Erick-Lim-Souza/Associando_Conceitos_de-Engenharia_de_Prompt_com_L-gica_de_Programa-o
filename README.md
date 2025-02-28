@@ -5,7 +5,7 @@
 ## 📌 Descrição
 Engenharia de Prompts é a prática de criar instruções que direcionem modelos de linguagem a gerar respostas úteis e precisas. Neste desafio, você deverá associar conceitos fundamentais de Engenharia de Prompts às suas descrições.
 
-Saiba mais em: [Técnicas de Engenharia de Prompt](#)
+Técnicas de Engenharia de Prompt
 
 ## 📥 Entrada
 A entrada consistirá nos seguintes conceitos relacionados à Engenharia de Prompts:
@@ -53,6 +53,9 @@ Os desafios apresentados aqui têm como objetivo principal exercitar os conceito
    - Prompt Interativo
    - Prompt de Refinamento
 5. O programa retornará a descrição correspondente.
+
+![image](https://github.com/user-attachments/assets/713c56db-038b-448f-a87b-3f6a837a5d29)
+
 
 ## 📜 Licença
 MIT - Este projeto é de uso livre para estudo e aprendizado.
